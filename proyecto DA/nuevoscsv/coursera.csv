@@ -1,0 +1,605 @@
+id,title,institution,rating
+machine-learning,Machine Learning,Stanford University,5.0
+indigenous-canada,Indigenous Canada,University of Alberta,5.0
+the-science-of-well-being,The Science of Well-Being,Yale University,5.0
+technical-support-fundamentals,Technical Support Fundamentals,Google,5.0
+google-cbrs-cpi-training,Become a CBRS Certified Professional Installer by Google,Google - Spectrum Sharing,5.0
+financial-markets-global,Financial Markets,Yale University,5.0
+introduction-psychology,Introduction to Psychology,Yale University,5.0
+python,Programming for Everybody (Getting Started with Python),University of Michigan,5.0
+computer-networking,The Bits and Bytes of Computer Networking,Google,5.0
+ai-for-everyone,AI For Everyone,DeepLearning.AI,5.0
+python-crash-course,Crash Course on Python,Google,5.0
+psychological-first-aid,Psychological First Aid,Johns Hopkins University,5.0
+neural-networks-deep-learning,Neural Networks and Deep Learning,DeepLearning.AI,5.0
+what-is-datascience,What is Data Science?,IBM,5.0
+negotiation-skills,Successful Negotiation: Essential Strategies and Skills,University of Michigan,5.0
+uva-darden-project-management,Fundamentals of Project Planning and Management,University of Virginia,5.0
+project-management,Project Launch,"University of California, Irvine",5.0
+brand,"Brand Management: Aligning Business, Brand and Behaviour",London Business School,5.0
+sciwrite,Writing in the Sciences,Stanford University,5.0
+food-and-health,Stanford Introduction to Food and Health,Stanford University,5.0
+html-css-javascript-for-web-developers,"HTML, CSS, and Javascript for Web Developers",Johns Hopkins University,5.0
+excel-essentials,Excel Skills for Business: Essentials,Macquarie University,5.0
+negotiation,Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator,Yale University,5.0
+everyday-excel-part-1,"Everyday Excel, Part 1",University of Colorado Boulder,5.0
+learning-how-to-learn,Learning How to Learn: Powerful mental tools to help you master tough subjects,University of California San Diego,5.0
+gcp-fundamentals,Google Cloud Platform Fundamentals: Core Infrastructure,Google Cloud,5.0
+wharton-contagious-viral-marketing,Viral Marketing and How to Craft Contagious Content,University of Pennsylvania,5.0
+python-data,Python Data Structures,University of Michigan,5.0
+private-equity,Private Equity and Venture Capital,Università Bocconi,5.0
+learn-korean,First Step Korean,Yonsei University,5.0
+introduction-tensorflow,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",DeepLearning.AI,5.0
+os-power-user,Operating Systems and You: Becoming a Power User,Google,5.0
+open-source-tools-for-data-science,Tools for Data Science,IBM,5.0
+deep-neural-network,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",DeepLearning.AI,5.0
+diversity-inclusion-workplace,Diversity and inclusion in the workplace,ESSEC Business School,5.0
+clinical-trials,Design and Interpretation of Clinical Trials,Johns Hopkins University,5.0
+visual-elements-user-interface-design,Visual Elements of User Interface Design,California Institute of the Arts,5.0
+mafash,Management of Fashion and Luxury Companies,Università Bocconi,5.0
+pap,Primeros Auxilios Psicológicos (PAP),Universitat Autònoma de Barcelona,5.0
+social-psychology,Social Psychology,Wesleyan University,5.0
+project-planning,Initiating and Planning Projects,"University of California, Irvine",5.0
+computational-thinking-problem-solving,Computational Thinking for Problem Solving,University of Pennsylvania,5.0
+agile-atlassian-jira,Agile with Atlassian Jira,Atlassian,5.0
+fundamentals-of-graphic-design,Fundamentals of Graphic Design,California Institute of the Arts,5.0
+user-experience-design,Introduction to User Experience Design,Georgia Institute of Technology,5.0
+wharton-marketing,Introduction to Marketing,University of Pennsylvania,5.0
+python-for-applied-data-science-ai,Python for Data Science and AI,IBM,5.0
+uva-darden-market-analytics,Marketing Analytics,University of Virginia,5.0
+classification-vector-spaces-in-nlp,Natural Language Processing with Classification and Vector Spaces,DeepLearning.AI,5.0
+wharton-quantitative-modeling,Fundamentals of Quantitative Modeling,University of Pennsylvania,5.0
+remote-team-management,How to Manage a Remote Team,GitLab,5.0
+linear-algebra-machine-learning,Mathematics for Machine Learning: Linear Algebra,Imperial College London,5.0
+python-data-analysis,Introduction to Data Science in Python,University of Michigan,5.0
+wharton-customer-analytics,Customer Analytics,University of Pennsylvania,5.0
+introduction-psych,Introduction to Psychology,University of Toronto,5.0
+careerdevelopment,English for Career Development,University of Pennsylvania,5.0
+global-diplomacy,Global Diplomacy – Diplomacy in the Modern World,University of London,5.0
+sql-for-data-science,SQL for Data Science,"University of California, Davis",5.0
+professional-emails-english,Write Professional Emails in English,Georgia Institute of Technology,5.0
+medical-neuroscience,Medical Neuroscience,Duke University,5.0
+system-administration-it-infrastructure-services,System Administration and IT Infrastructure Services,Google,5.0
+womens-health-human-rights,International Women's Health and Human Rights,Stanford University,5.0
+childnutrition,Child Nutrition and Cooking,Stanford University,5.0
+neurobiology,Understanding the Brain: The Neurobiology of Everyday Life,The University of Chicago,5.0
+social-media-marketing-introduction,Introduction to Social Media Marketing,Facebook,5.0
+forensic-accounting,Forensic Accounting and Fraud Examination,West Virginia University,5.0
+clinical-terminology,Clinical Terminology for International and U.S. Students,University of Pittsburgh,5.0
+science-exercise,Science of Exercise,University of Colorado Boulder,5.0
+uva-darden-digital-product-management,Digital Product Management: Modern Fundamentals,University of Virginia,5.0
+datasciencemathskills,Data Science Math Skills,Duke University,5.0
+machine-learning-projects,Structuring Machine Learning Projects,DeepLearning.AI,5.0
+american-law,An Introduction to American Law,University of Pennsylvania,5.0
+content-marketing,The Strategy of Content Marketing,"University of California, Davis",5.0
+introduction-cybersecurity-cyber-attacks,Introduction to Cybersecurity Tools & Cyber Attacks,IBM,5.0
+data-scientists-tools,The Data Scientist’s Toolbox,Johns Hopkins University,5.0
+animal-welfare,Animal Behaviour and Welfare,The University of Edinburgh,5.0
+convolutional-neural-networks-tensorflow,Convolutional Neural Networks in TensorFlow,DeepLearning.AI,5.0
+positive-psychology-visionary-science,Positive Psychology: Martin E. P. Seligman’s Visionary Science,University of Pennsylvania,5.0
+cancer,Introduction to the Biology of Cancer,Johns Hopkins University,5.0
+convolutional-neural-networks,Convolutional Neural Networks,DeepLearning.AI,4.0
+python-network-data,Using Python to Access Web Data,University of Michigan,5.0
+physiology,Introductory Human Physiology,Duke University,5.0
+systematic-review,Introduction to Systematic Review and Meta-Analysis,Johns Hopkins University,5.0
+communication-strategies-virtual-age,Communication Strategies for a Virtual Age,University of Toronto,5.0
+moral-politics,Moral Foundations of Politics,Yale University,5.0
+etudier-en-france,Étudier en France: French Intermediate course B1-B2,École Polytechnique,5.0
+company-future-management,Managing the Company of the Future,London Business School,5.0
+finance-for-non-finance,Finance for Non-Finance Professionals,Rice University,5.0
+site-reliability-engineering-slos,Site Reliability Engineering: Measuring and Managing Reliability,Google Cloud,5.0
+autism-spectrum-disorder,Autism Spectrum Disorder,"University of California, Davis",5.0
+data-science-methodology,Data Science Methodology,IBM,5.0
+wharton-accounting,Introduction to Financial Accounting,University of Pennsylvania,5.0
+marketing-digital,Marketing in a Digital World,University of Illinois at Urbana-Champaign,5.0
+wind-energy,Wind Energy,Technical University of Denmark (DTU),5.0
+sustainable-finance,Principles of Sustainable Finance,Erasmus University Rotterdam,5.0
+financial-engineering-1,Financial Engineering and Risk Management Part I,Columbia University,5.0
+philosophy,Introduction to Philosophy,The University of Edinburgh,5.0
+analytics-business-metrics,Business Metrics for Data-Driven Companies,Duke University,5.0
+python-basics,Python Basics,University of Michigan,5.0
+sustainability,Introduction to Sustainability,University of Illinois at Urbana-Champaign,5.0
+positive-psychiatry,Positive Psychiatry and Mental Health,The University of Sydney,5.0
+crypto,Cryptography I,Stanford University,5.0
+teach-online,Learning to Teach Online,UNSW Sydney (The University of New South Wales),5.0
+it-security,IT Security: Defense against the digital dark arts,Google,5.0
+entreprise-changement-climatique,Entreprise et changement climatique,ESSEC Business School,5.0
+neuromarketing,An Introduction to Consumer Neuroscience & Neuromarketing,Copenhagen Business School,5.0
+gamification,Gamification,University of Pennsylvania,5.0
+contabilidad,Contabilidad para no contadores,Universidad Nacional Autónoma de México,5.0
+python-operating-system,Using Python to Interact with the Operating System,Google,5.0
+cs-fundamentals-1,Object-Oriented Data Structures in C++,University of Illinois at Urbana-Champaign,5.0
+gcp-big-data-ml-fundamentals,Google Cloud Platform Big Data and Machine Learning Fundamentals,Google Cloud,5.0
+sql-data-science,Databases and SQL for Data Science,IBM,5.0
+natural-language-processing-tensorflow,Natural Language Processing in TensorFlow,DeepLearning.AI,5.0
+advanced-valuation-and-strategy,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",Erasmus University Rotterdam,5.0
+probabilistic-models-in-nlp,Natural Language Processing with Probabilistic Models,DeepLearning.AI,5.0
+vital-signs,Vital Signs: Understanding What the Body Is Telling Us,University of Pennsylvania,5.0
+research-methods,Understanding Research Methods,University of London,5.0
+ibm-customer-engagement-specialist,IBM Customer Engagement Specialist Professional Certificate,IBM,5.0
+introduction-to-calculus,Introduction to Calculus,The University of Sydney,5.0
+camino-excelencia-gestion-proyectos,Camino a la Excelencia en Gestión de Proyectos,Pontificia Universidad Católica de Chile,5.0
+html,Introduction to HTML5,University of Michigan,4.0
+wine,Wine Tasting: Sensory Techniques for Wine Analysis,"University of California, Davis",5.0
+excel-intermediate-1,Excel Skills for Business: Intermediate I,Macquarie University,5.0
+duke-programming-web,"Programming Foundations with JavaScript, HTML and CSS",Duke University,5.0
+build-a-computer,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Hebrew University of Jerusalem,5.0
+food-beverage-management,Food & Beverage Management,Università Bocconi,5.0
+data-analysis-with-python,Data Analysis with Python,IBM,5.0
+project-planning-1,Project Planning,"University of California, Irvine",5.0
+uva-darden-getting-started-agile,Agile Meets Design Thinking,University of Virginia,5.0
+aws-fundamentals-going-cloud-native,AWS Fundamentals: Going Cloud-Native,Amazon Web Services,5.0
+construction-project-management,Construction Project Management,Columbia University,5.0
+mathematical-thinking,Introduction to Mathematical Thinking,Stanford University,5.0
+everyday-parenting,Everyday Parenting: The ABCs of Child Rearing,Yale University,5.0
+intro-to-healthcare,Introduction to Healthcare,Stanford University,4.0
+machine-learning-with-python,Machine Learning with Python,IBM,5.0
+terrorism,Terrorism and Counterterrorism: Comparing Theory and Practice,Universiteit Leiden,5.0
+clinical-data-management,Data Management for Clinical Research,Vanderbilt University,5.0
+sustainable-fashion,Sustainable Fashion,Copenhagen Business School,5.0
+data-science-k-means-clustering-python,Foundations of Data Science: K-Means Clustering in Python,University of London,5.0
+instructional-design-foundations-applications,Instructional Design Foundations and Applications,University of Illinois at Urbana-Champaign,4.0
+enlinea,Cursos en línea: modelo para armar,Universidad Nacional Autónoma de México,5.0
+modern-art-ideas,Modern Art & Ideas,The Museum of Modern Art,5.0
+speak-english-professionally,"Speak English Professionally: In Person, Online & On the Phone",Georgia Institute of Technology,5.0
+gcp-infrastructure-foundation,Essential Google Cloud Infrastructure: Foundation,Google Cloud,5.0
+introduction-to-ai,Introduction to Artificial Intelligence (AI),IBM,5.0
+dog-emotion-and-cognition,Dog Emotion and Cognition,Duke University,5.0
+organizational-behavior,International Leadership and Organizational Behavior,Università Bocconi,5.0
+sdgbusiness,Driving business towards the Sustainable Development Goals,Erasmus University Rotterdam,5.0
+global-sustainable-development,"The Sustainable Development Goals – A global, transdisciplinary vision for the future",University of Copenhagen,5.0
+bcg-uva-darden-digital-transformation,Digital Transformation,BCG,5.0
+nlp-sequence-models,Sequence Models,DeepLearning.AI,5.0
+entrepreneur-changement,Devenir entrepreneur du changement,HEC Paris,5.0
+photography,Seeing Through Photographs,The Museum of Modern Art,5.0
+wharton-entrepreneurship-opportunity,Entrepreneurship 1: Developing the Opportunity,University of Pennsylvania,5.0
+search-engine-optimization,Introduction to Search Engine Optimization,"University of California, Davis",5.0
+learn-speak-korean1,Learn to Speak Korean 1,Yonsei University,5.0
+drug-development,Drug Development,University of California San Diego,5.0
+r-programming,R Programming,Johns Hopkins University,5.0
+money-banking,Economics of Money and Banking,Columbia University,5.0
+learn-chinese,Chinese for Beginners,Peking University,5.0
+grammar-punctuation,Grammar and Punctuation,"University of California, Irvine",5.0
+japanese-1,Japanese for beginners 1,Saint Petersburg State University,4.0
+intro-common-law,Introduction to English Common Law,University of London,5.0
+dental-medicine-penn,Introduction to Dental Medicine,University of Pennsylvania,5.0
+fundamentals-of-reinforcement-learning,Fundamentals of Reinforcement Learning,Alberta Machine Intelligence Institute,5.0
+principles-of-macroeconomics,The Power of Macroeconomics: Economic Principles in the Real World,"University of California, Irvine",5.0
+corp-sustainability,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,Università Bocconi,5.0
+duke-behavioral-finance,Behavioral Finance,Duke University,4.0
+tensorflow-sequences-time-series-and-prediction,"Sequences, Time Series and Prediction",DeepLearning.AI,5.0
+supply-chain-logistics,Supply Chain Logistics,Rutgers the State University of New Jersey,5.0
+project-execution,Project Execution,"University of California, Irvine",4.5
+nutricion-obesidad-sobrepeso,Nutrición y obesidad: control de sobrepeso,Universidad Nacional Autónoma de México,5.0
+microeconomics,Microeconomics Principles,University of Illinois at Urbana-Champaign,5.0
+craft-of-plot,Creative Writing: The Craft of Plot,Wesleyan University,5.0
+astro,Astronomy: Exploring Time and Space,University of Arizona,5.0
+oilandgas,Oil & Gas Industry Operations and Markets,Duke University,5.0
+uva-darden-design-thinking-innovation,Design Thinking for Innovation,University of Virginia,5.0
+becoming-a-veterinarian,EDIVET: Do you have what it takes to be a veterinarian?,The University of Edinburgh,5.0
+learn-to-program,Learn to Program: The Fundamentals,University of Toronto,5.0
+uva-darden-financial-accounting,Financial Accounting Fundamentals,University of Virginia,5.0
+finding-purpose-and-meaning-in-life,Finding Purpose and Meaning In Life: Living for What Matters Most,University of Michigan,5.0
+clinical-research,Understanding Clinical Research: Behind the Statistics,University of Cape Town,5.0
+epidemiology,Epidemiology: The Basic Science of Public Health,The University of North Carolina at Chapel Hill,5.0
+fashion-design,Fashion as Design,The Museum of Modern Art,5.0
+teamwork-skills-effective-communication,Teamwork Skills: Communicating Effectively in Groups,University of Colorado Boulder,5.0
+feminism-social-justice,Feminism and Social Justice,"University of California, Santa Cruz",5.0
+international-organizations-management,International Organizations Management,University of Geneva,5.0
+estrategia-marketing-digital,Marketing Digital,Universidade de São Paulo,5.0
+gis,Fundamentals of GIS,"University of California, Davis",5.0
+elearning,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,University of Illinois at Urbana-Champaign,5.0
+excel-vba-for-creative-problem-solving-part-1,"Excel/VBA for Creative Problem Solving, Part 1",University of Colorado Boulder,5.0
+international-taxation,Rethinking International Tax Law,Universiteit Leiden,5.0
+probability-intro,Introduction to Probability and Data with R,Duke University,5.0
+understanding-visualization-data,Understanding and Visualizing Data with Python,University of Michigan,5.0
+data-visualization-tableau,Fundamentals of Visualization with Tableau,"University of California, Davis",5.0
+sas-programming-basics,Getting Started with SAS Programming,SAS,5.0
+uol-machine-learning-for-all,Machine Learning for All,University of London,5.0
+python-databases,Using Databases with Python,University of Michigan,5.0
+addiction-treatment,Addiction Treatment: Clinical Skills for Healthcare Providers,Yale University,5.0
+dino101,Dino 101: Dinosaur Paleobiology,University of Alberta,5.0
+sports-marketing,Sports Marketing,Northwestern University,5.0
+positive-psychology,Positive Psychology,The University of North Carolina at Chapel Hill,5.0
+matlab,Introduction to Programming with MATLAB,Vanderbilt University,5.0
+managing-human-resources,Preparing to Manage Human Resources,University of Minnesota,5.0
+solar-energy-basics,Solar Energy Basics,The State University of New York,5.0
+bootstrap-4,Front-End Web UI Frameworks and Tools: Bootstrap 4,The Hong Kong University of Science and Technology,5.0
+google-cloud-java-spring,Building Scalable Java Microservices with Spring Boot and Spring Cloud,Google Cloud,5.0
+forensic-science,Introduction to Forensic Science,"Nanyang Technological University, Singapore",5.0
+google-cloud-product-fundamentals,Google Cloud Product Fundamentals,Google Cloud,5.0
+contracts-1,American Contract Law I,Yale University,5.0
+engineering-health-yoga-physiology,Engineering Health: Introduction to Yoga and Physiology,New York University,5.0
+ai-for-medical-diagnosis,AI for Medical Diagnosis,DeepLearning.AI,5.0
+sequence-models-in-nlp,Natural Language Processing with Sequence Models,DeepLearning.AI,5.0
+electronics,Introduction to Electronics,Georgia Institute of Technology,5.0
+international-humanitarian-law,International Humanitarian Law in Theory and Practice,Universiteit Leiden,5.0
+making-architecture,Making Architecture,IE School of Architecture & Design,5.0
+model-thinking,Model Thinking,University of Michigan,5.0
+dyslexia-difficulties,Supporting children with difficulties in reading and writing,University of London,5.0
+innovation-management,Innovation Management,Erasmus University Rotterdam,5.0
+people-management,The Manager's Toolkit: A Practical Guide to Managing People at Work,"Birkbeck, University of London",5.0
+modern-world,"The Modern World, Part One: Global History from 1760 to 1910",University of Virginia,5.0
+supply-chain-principles,Supply Chain Principles,Georgia Institute of Technology,5.0
+gcp-infrastructure-core-services,Essential Google Cloud Infrastructure: Core Services,Google Cloud,5.0
+weight-management-beyond-balancing-calories,Weight Management: Beyond Balancing Calories,Emory University,5.0
+human-language,Miracles of Human Language: An Introduction to Linguistics,Universiteit Leiden,5.0
+java-programming,Java Programming: Solving Problems with Software,Duke University,5.0
+race-cultural-diversity-american-life,Race and Cultural Diversity in American Life and History,University of Illinois at Urbana-Champaign,5.0
+motivate-people-teams,Inspiring and Motivating Individuals,University of Michigan,5.0
+competencias-digitales-ofimatica,"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",Universitat Autònoma de Barcelona,5.0
+healing-with-the-arts,Healing with the Arts,University of Florida,5.0
+wharton-people-analytics,People Analytics,University of Pennsylvania,5.0
+what-is-social,What is Social?,Northwestern University,5.0
+ux-design-fundamentals,UX Design Fundamentals,California Institute of the Arts,5.0
+creative-thinking-techniques-and-tools-for-success,Creative Thinking: Techniques and Tools for Success,Imperial College London,5.0
+introclassicalmusic,Introduction to Classical Music,Yale University,5.0
+childrens-rights,Children's Human Rights - An Interdisciplinary Introduction,University of Geneva,5.0
+investment-management,Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers,HEC Paris,5.0
+excel-data-analysis,Introduction to Data Analysis Using Excel,Rice University,5.0
+manage-health-covid-19,Mind Control: Managing Your Mental Health During COVID-19,University of Toronto,5.0
+international-criminal-law,Introduction to International Criminal Law,Case Western Reserve University,5.0
+wharton-fintech-overview-payments-regulations,"FinTech: Foundations, Payments, and Regulations",University of Pennsylvania,5.0
+mythology,Greek and Roman Mythology,University of Pennsylvania,5.0
+global-energy,Politics and Economics of International Energy,Sciences Po,5.0
+uva-darden-continous-delivery-devops,Continuous Delivery & DevOps,University of Virginia,5.0
+english-principles,Teach English Now! Foundational Principles,Arizona State University,5.0
+business-model,Business Model Innovation,HEC Paris,5.0
+introtoux-principles-and-processes,Introduction to User Experience Principles and Processes,University of Michigan,5.0
+beyond-the-sustainable-development-goals-addressing-sustainability-and-development,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,University of Michigan,5.0
+process-mining,Process Mining: Data science in Action,Eindhoven University of Technology,5.0
+immunologyfundamentalsimmunitybcells,Fundamentals of Immunology: Innate Immunity and B-Cell Function,Rice University,5.0
+wharton-finance,Introduction to Corporate Finance,University of Pennsylvania,5.0
+global-diplomacy-un,Global Diplomacy: the United Nations in the World,University of London,5.0
+algorithmic-toolbox,Algorithmic Toolbox,University of California San Diego,5.0
+troubles-spectre-autisme-diagnostic,Troubles du spectre de l'autisme : diagnostic,University of Geneva,5.0
+anatomy403-1x,Anatomy: Musculoskeletal and Integumentary Systems,University of Michigan,5.0
+crash-course-in-causality,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,University of Pennsylvania,5.0
+business,English for Business and Entrepreneurship,University of Pennsylvania,5.0
+attention-models-in-nlp,Natural Language Processing with Attention Models,DeepLearning.AI,3.0
+what-is-compliance,What is Compliance?,University of Pennsylvania,5.0
+getting-started-with-google-sheets,Getting Started with Google Sheets,Google Cloud,5.0
+python-for-data-visualization,Data Visualization with Python,IBM,5.0
+foundations-of-mindfulness,Foundations of Mindfulness,Rice University,5.0
+negociacion,Negociación exitosa: Estrategias y habilidades esenciales (en español),University of Michigan,5.0
+decision-making,Data-driven Decision Making,PwC,5.0
+fe-exam,Fundamentals of Engineering Exam Review,Georgia Institute of Technology,5.0
+gender-sexuality,Gender and Sexuality: Diversity and Inclusion in the Workplace,University of Pittsburgh,5.0
+uva-darden-managerial-accounting,Managerial Accounting Fundamentals,University of Virginia,5.0
+seo-fundamentals,Search Engine Optimization Fundamentals,"University of California, Davis",5.0
+essentials-global-health,Essentials of Global Health,Yale University,5.0
+international-security-management,International Security Management,Erasmus University Rotterdam,5.0
+aws-machine-learning,Getting Started with AWS Machine Learning,Amazon Web Services,5.0
+arts-heritage,Arts and Heritage Management,Università Bocconi,5.0
+einstein-relativity,Understanding Einstein: The Special Theory of Relativity,Stanford University,5.0
+reussir-le-changement,Réussir le Changement,ESSEC Business School,5.0
+equine,Equine Welfare and Management,"University of California, Davis",5.0
+international-migrations,International migrations: a global issue,Sciences Po,5.0
+web-development,Introduction to Web Development,"University of California, Davis",5.0
+writing-editing-words,Writing and Editing: Word Choice and Word Order,University of Michigan,5.0
+digital-advertising-landscape,Introduction to the Digital Advertising Landscape,University of Colorado Boulder,5.0
+access-control-sscp,Access Controls,(ISC)²,5.0
+initiating-planning,Engineering Project Management: Initiating and Planning,Rice University,5.0
+kotlin-for-java-developers,Kotlin for Java Developers,JetBrains,5.0
+multivariate-calculus-machine-learning,Mathematics for Machine Learning: Multivariate Calculus,Imperial College London,5.0
+introduction-git-github,Introduction to Git and GitHub,Google,5.0
+industrial-biotech,Industrial Biotechnology,University of Manchester   ,5.0
+addiction-and-the-brain,The Addicted Brain,Emory University,5.0
+aprendiendo-programar-python,Introducción a la programación en Python I: Aprendiendo a programar con Python,Pontificia Universidad Católica de Chile,5.0
+data-lakes-data-warehouses-gcp,Modernizing Data Lakes and Data Warehouses with GCP,Google Cloud,5.0
+drug-discovery,Drug Discovery,University of California San Diego,5.0
+nutrition-pregnancy,Nutrition and Lifestyle in Pregnancy,Ludwig-Maximilians-Universität München (LMU),5.0
+finance-healthcare-managers,Financial Acumen for Non-Financial Managers,University of Pennsylvania,4.0
+python-statistics-financial-analysis,Python and Statistics for Financial Analysis,The Hong Kong University of Science and Technology,5.0
+bugs-101,Bugs 101: Insect-Human Interactions,University of Alberta,5.0
+autodesk-revit-architectural-design,Autodesk Certified Professional: Revit for Architectural Design Exam Prep,Autodesk,5.0
+leading-for-equity-diversity-inclusion,"Leading for Equity, Diversity and Inclusion in Higher Education",University of Michigan,5.0
+enterprise-architecture,Enterprise Architecture,Peter the Great St. Petersburg Polytechnic University,5.0
+wharton-introduction-spreadsheets-models,Introduction to Spreadsheets and Models,University of Pennsylvania,4.0
+human-needs,The Arts and Science of Relationships: Understanding Human Needs,University of Toronto,5.0
+clinicalsimulations,Essentials in Clinical Simulations Across the Health Professions,The George Washington University,5.0
+schedule-projects,Budgeting and Scheduling Projects,"University of California, Irvine",5.0
+machine-learning-business-professionals,Machine Learning for Business Professionals,Google Cloud,5.0
+intro-accounting-data-analytics-visual,Introduction to Accounting Data Analytics and Visualization,University of Illinois at Urbana-Champaign,5.0
+spanish-vocabulary-meeting-people,Spanish Vocabulary: Meeting People,"University of California, Davis",5.0
+gestionempresarialpyme,Gestión Empresarial Exitosa para Pymes,Pontificia Universidad Católica de Chile,5.0
+public-policy,Public Policy Challenges of the 21st Century,University of Virginia,5.0
+arbitration-international-disputes,International Law in Action: the Arbitration of International Disputes,Universiteit Leiden,5.0
+introancientegypt,Introduction to Ancient Egypt and Its Civilization,University of Pennsylvania,5.0
+infrastructure-investing,Financing and Investing in Infrastructure,Università Bocconi,5.0
+global-environmental-management,Global Environmental Management,Technical University of Denmark (DTU),5.0
+wharton-operations-analytics,Operations Analytics,University of Pennsylvania,5.0
+entrepreneurship-strategy,Entrepreneurship Strategy: From Ideation to Exit,HEC Paris,1.0
+fintechlawandpolicy,FinTech Law and Policy,Duke University,5.0
+mental-health,The Social Context of Mental Health and Illness,University of Toronto,5.0
+contemporary-art,What Is Contemporary Art?,The Museum of Modern Art,5.0
+producing-music,The Art of Music Production,Berklee College of Music,5.0
+biohacking-your-brains-health,Biohacking Your Brain's Health,Emory University,5.0
+bayesian-statistics,Bayesian Statistics: From Concept to Data Analysis,"University of California, Santa Cruz",5.0
+reporting-extra-financier-strategie-rse,Reporting extra-financier et stratégie RSE,ESSEC Business School,5.0
+quality-healthcare,Leading Healthcare Quality and Safety,The George Washington University,5.0
+international-relations-theory,Understanding International Relations Theory,National Research University Higher School of Economics,5.0
+introduction-to-data-analytics,Introduction to Data Analytics,IBM,5.0
+excel-para-negocios,Fundamentos de Excel para Negocios,Universidad Austral,5.0
+gcp-infrastructure-scaling-automation,Elastic Google Cloud Infrastructure: Scaling and Automation,Google Cloud,5.0
+cultural-competence-aboriginal-sydney,Cultural Competence - Aboriginal Sydney,The University of Sydney,5.0
+finanzas-empresariales,Fundamentos de Finanzas Empresariales,Universidad de los Andes,5.0
+gte-sustainable-cities,Greening the Economy: Sustainable Cities,Lund University,5.0
+engineering-mechanics-statics,Introduction to Engineering Mechanics,Georgia Institute of Technology,5.0
+design-strategy,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,The University of Sydney,5.0
+bioinformatics,Biology Meets Programming: Bioinformatics for Beginners,University of California San Diego,5.0
+medical-research,Understanding Medical Research: Your Facebook Friend is Wrong,Yale University,5.0
+health-behavior-change,Health Behavior Change: From Evidence to Action,Yale University,5.0
+cs-fundamentals-2,Ordered Data Structures,University of Illinois at Urbana-Champaign,5.0
+mindshift,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,McMaster University,5.0
+programming-fundamentals,Programming Fundamentals,Duke University,5.0
+understanding-financial-markets,Understanding Financial Markets,University of Geneva,5.0
+painting,In the Studio: Postwar Abstract Painting,The Museum of Modern Art,5.0
+drug-commercialization,Drug Commercialization,University of California San Diego,5.0
+introduction-to-software-product-management,Introduction to Software Product Management,University of Alberta,5.0
+norms,"Social Norms, Social Change I",Unicef,5.0
+excel-intermediate-2,Excel Skills for Business: Intermediate II,Macquarie University,5.0
+aboriginal-education,Aboriginal Worldviews and Education,University of Toronto,5.0
+information-systems-audit,"Information Systems Auditing, Controls and Assurance",The Hong Kong University of Science and Technology,5.0
+six-sigma-principles,Six Sigma Principles,University System of Georgia,5.0
+writing-for-business,Business Writing,University of Colorado Boulder,5.0
+autodesk-autocad-design-drafting,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,Autodesk,5.0
+typography,Introduction to Typography,California Institute of the Arts,5.0
+customer-segmentation-prospecting,Customer Segmentation and Prospecting,Northwestern University,5.0
+gestionar-personas,Claves para Gestionar Personas,IESE Business School,5.0
+journalism,English for Journalism,University of Pennsylvania,5.0
+how-things-work,How Things Work: An Introduction to Physics,University of Virginia,5.0
+business-english-intro,Business English: Networking,University of Washington,5.0
+summary-statistics,Summary Statistics in Public Health,Johns Hopkins University,5.0
+globalenergyandclimatepolicy,Global Energy and Climate Policy,University of London,5.0
+legaltech,El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho,Universidad Austral,5.0
+probability-statistics,Probability and Statistics: To p or not to p?,University of London,5.0
+microbiome,Gut Check: Exploring Your Microbiome,University of Colorado Boulder,5.0
+erasmus-econometrics,Econometrics: Methods and Applications,Erasmus University Rotterdam,5.0
+golang-webservices-1,Разработка веб-сервисов на Go - основы языка,Moscow Institute of Physics and Technology,5.0
+analytics-excel,Mastering Data Analysis in Excel,Duke University,4.0
+basic-statistics,Basic Statistics,University of Amsterdam,5.0
+python-data-visualization,"Capstone: Retrieving, Processing, and Visualizing Data with Python",University of Michigan,5.0
+uva-darden-design-thinking-social-sector,Design Thinking for the Greater Good: Innovation in the Social Sector,University of Virginia,5.0
+introduction-portfolio-construction-python,Introduction to Portfolio Construction and Analysis with Python,EDHEC Business School,5.0
+data-analytics-for-lean-six-sigma,Data Analytics for Lean Six Sigma,University of Amsterdam,5.0
+refugees-21st-century,Refugees in the 21st Century,University of London,5.0
+containerized-apps-on-aws,Building Containerized Applications on AWS,Amazon Web Services,5.0
+business-transformation-google-cloud,Business Transformation with Google Cloud,Google Cloud,5.0
+version-control-with-git,Version Control with Git,Atlassian,5.0
+transmedia-storytelling,"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",UNSW Sydney (The University of New South Wales),5.0
+excel-aplicado-negocios-avanzado,Excel aplicado a los negocios (Nivel Avanzado),Universidad Austral,5.0
+public-speaking,Introduction to Public Speaking,University of Washington,5.0
+conversational-experiences-dialogflow,Building Conversational Experiences with Dialogflow,Google Cloud,5.0
+guitar,Guitar for Beginners,Berklee College of Music,5.0
+project-risk-management,Managing Project Risks and Changes,"University of California, Irvine",5.0
+excellence-operationnelle,L'excellence opérationnelle en pratique,ESSEC Business School,5.0
+introduction-to-cloud,Introduction to Cloud Computing,IBM,5.0
+sample-based-learning-methods,Sample-based Learning Methods,Alberta Machine Intelligence Institute,5.0
+progfun1,Functional Programming Principles in Scala,École Polytechnique Fédérale de Lausanne,5.0
+introduction-blockchain-technologies,Introduction to Blockchain Technologies,INSEAD,5.0
+environmental-law,Introduction to Environmental Law and Policy,The University of North Carolina at Chapel Hill,5.0
+exposure-photography,"Cameras, Exposure, and Photography",Michigan State University,5.0
+democracia,Democracia y decisiones públicas. Introducción al análisis de políticas públicas,Universitat Autònoma de Barcelona,5.0
+dentistry101,Dentistry 101,University of Michigan,5.0
+python-functions-files-dictionaries,"Python Functions, Files, and Dictionaries",University of Michigan,5.0
+anticorrupcion-introduccion,Anticorrupción: Introducción a conceptos y perspectiva práctica,Universidad Nacional Autónoma de México,5.0
+positive-psychology-applications,Positive Psychology: Applications and Interventions,University of Pennsylvania,5.0
+introduction-embedded-systems,Introduction to Embedded Systems Software and Development Environments,University of Colorado Boulder,5.0
+family-planning,Personal & Family Financial Planning,University of Florida,5.0
+law-student,A Law Student's Toolkit,Yale University,5.0
+intro-data-science-programacion-estadistica-r,Introducción a Data Science: Programación Estadística con R,Universidad Nacional Autónoma de México,5.0
+cybersecurity-roles-processes-operating-system-security,"Cybersecurity Roles, Processes & Operating System Security",IBM,5.0
+computational-neuroscience,Computational Neuroscience,University of Washington,5.0
+smart-cities,Smart Cities – Management of Smart Urban Infrastructures,École Polytechnique Fédérale de Lausanne,5.0
+golang-getting-started,Getting Started with Go,"University of California, Irvine",5.0
+intro-economic-theories,Introduction to Economic Theories,Erasmus University Rotterdam,5.0
+principles-of-microeconomics,The Power of Microeconomics: Economic Principles in the Real World,"University of California, Irvine",5.0
+personal-branding,Introduction to Personal Branding,University of Virginia,5.0
+love-social-justice,Love as a Force for Social Justice,Stanford University,5.0
+what-is-a-proof,Mathematical Thinking in Computer Science,University of California San Diego,5.0
+genetics-evolution,Introduction to Genetics and Evolution,Duke University,5.0
+python-osnovy-programmirovaniya,Основы программирования на Python,National Research University Higher School of Economics,5.0
+wharton-communication-skills,Improving Communication Skills,University of Pennsylvania,5.0
+introduction-trading-machine-learning-gcp,"Introduction to Trading, Machine Learning & GCP",New York Institute of Finance,4.0
+python-programming-introduction,Python Programming: A Concise Introduction,Wesleyan University,5.0
+modern-world-2,"The Modern World, Part Two: Global History since 1910",University of Virginia,5.0
+plantknows,Understanding Plants - Part I: What a Plant Knows,Tel Aviv University,5.0
+excel-data-analysis-fundamentals,Excel Fundamentals for Data Analysis,Macquarie University,5.0
+finanzas-personales,Finanzas personales,Universidad Nacional Autónoma de México,5.0
+english-composition,English Composition I,Duke University,5.0
+healthcarejobs,Career 911: Your Future Job in Medicine and Healthcare,Northwestern University,5.0
+intro-self-driving-cars,Introduction to Self-Driving Cars,University of Toronto,5.0
+corporate-commercial-law-part1,Corporate & Commercial Law I: Contracts & Employment Law,University of Illinois at Urbana-Champaign,5.0
+blockchain-basics,Blockchain Basics,University at Buffalo,5.0
+uva-darden-foundations-business-strategy,Foundations of Business Strategy,University of Virginia,5.0
+ciencia-computacao-python-conceitos,Introdução à Ciência da Computação com Python Parte 1,Universidade de São Paulo,5.0
+stochasticprocesses,Stochastic processes,National Research University Higher School of Economics,5.0
+foundations-big-data-analysis-sql,Foundations for Big Data Analysis with SQL,Cloudera,5.0
+innovation-through-design,"Innovation Through Design: Think, Make, Break, Repeat",The University of Sydney,5.0
+perfect-tenses-modals,Perfect Tenses and Modals,"University of California, Irvine",5.0
+cloud-azure-intro,Getting Started with Azure,LearnQuest,5.0
+moralities,Moralities of Everyday Life,Yale University,5.0
+revisao-sistematica,Revisão Sistemática e Meta-análise,Universidade Estadual de Campinas,5.0
+child-development,Understanding child development: from synapse to society,Utrecht University,5.0
+introduction-g-suite,Introduction to G Suite,Google Cloud,5.0
+aprendiendo-a-aprender,Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn),University of California San Diego,5.0
+batch-data-pipelines-gcp,Building Batch Data Pipelines on GCP,Google Cloud,5.0
+financial-planning,Financial Planning for Young Adults,University of Illinois at Urbana-Champaign,5.0
+quantitative-methods,Quantitative Methods,University of Amsterdam,5.0
+self-determination-theory,"Introduction to Self-Determination Theory: An approach to motivation, development and wellness",University of Rochester,5.0
+technology-of-music-production,The Technology of Music Production,Berklee College of Music,5.0
+intro-programming,Code Yourself! An Introduction to Programming,The University of Edinburgh,5.0
+wharton-success,Success,University of Pennsylvania,5.0
+chemicals-health,Chemicals and Health,Johns Hopkins University,5.0
+statistical-inferences,Improving your statistical inferences,Eindhoven University of Technology,5.0
+finance-fundamentals,Fundamentals of Finance,University of Pennsylvania,4.0
+google-machine-learning,How Google does Machine Learning,Google Cloud,5.0
+object-oriented-design,Object-Oriented Design,University of Alberta,5.0
+introduction-intellectual-property,Introduction to Intellectual Property,University of Pennsylvania,5.0
+uva-darden-bcg-pricing-strategy-cost-economics,Cost and Economics in Pricing Strategy,BCG,5.0
+write-a-feature-length-screenplay-for-film-or-television,Write A Feature Length Screenplay For Film Or Television,Michigan State University,5.0
+marketing-gerencial,Marketing Gerencial,Universidad de Chile,5.0
+corporate-finance-essentials,Corporate Finance Essentials,IESE Business School,5.0
+information-security-data,Information Security: Context and Introduction,"Royal Holloway, University of London",5.0
+trunk-anatomy,"Anatomy of the Chest, Abdomen, and Pelvis",Yale University,5.0
+introcss,Introduction to CSS3,University of Michigan,5.0
+applied-data-science-capstone,Applied Data Science Capstone,IBM,5.0
+droits-de-lhomme,Introduction aux Droits de l’Homme,University of Geneva,5.0
+programming-languages,"Programming Languages, Part A",University of Washington,5.0
+big-history,Big History: Connecting Knowledge,Macquarie University,5.0
+leadership-21st-century,Leadership in 21st Century Organizations,Copenhagen Business School,5.0
+software-processes-and-agile-practices,Software Processes and Agile Practices,University of Alberta,5.0
+devops-culture-and-mindset,DevOps Culture and Mindset,"University of California, Davis",5.0
+introduction-statistics-data-analysis-public-health,Introduction to Statistics & Data Analysis in Public Health,Imperial College London,5.0
+discrete-optimization,Discrete Optimization,The University of Melbourne,5.0
+c-plus-plus-white,Основы разработки на C++: белый пояс,Moscow Institute of Physics and Technology,5.0
+covid-19-contact-tracing-for-nursing-professionals,COVID-19 Contact Tracing For Nursing Professionals,University of Houston,5.0
+high-stakes-leadership,High Stakes Leadership: Leading in Times of Crisis,University of Michigan,5.0
+epidemiology-tools,Essential Epidemiologic Tools for Public Health Practice,Johns Hopkins University,5.0
+epigenetics,Epigenetic Control of Gene Expression,The University of Melbourne,1.0
+recruiting-hiring-onboarding-employees,"Recruiting, Hiring, and Onboarding Employees",University of Minnesota,4.0
+aws-fundamentals-addressing-security-risk,AWS Fundamentals: Addressing Security Risk,Amazon Web Services,5.0
+plato,Ancient Philosophy: Plato & His Predecessors,University of Pennsylvania,4.0
+social-innovation,Becoming a changemaker: Introduction to Social Innovation,University of Cape Town,4.0
+spanish-in-healthcare-settings,Spanish for Successful Communication in Healthcare Settings,Rice University,4.0
+change-management,Leading transformations: Manage change,Macquarie University,4.0
+systems-engineering,Introduction to Systems Engineering,UNSW Sydney (The University of New South Wales),5.0
+mcmc-bayesian-statistics,Bayesian Statistics: Techniques and Models,"University of California, Santa Cruz",5.0
+humanrights,Human Rights for Open Societies,Utrecht University,5.0
+introduction-to-computers-and-office-productivity-software,Introduction to Computers and Office Productivity Software,The Hong Kong University of Science and Technology,5.0
+quantum-computing-algorithms,The Introduction to Quantum Computing,Saint Petersburg State University,4.0
+intercultural,Intercultural Management,ESCP Business School,5.0
+getinmooc,Get Interactive: Practical Teaching with Technology,University of London,5.0
+global-financial-markets-instruments,Global Financial Markets and Instruments,Rice University,5.0
+write-your-first-novel,Write Your First Novel,Michigan State University,5.0
+enfant-developpement,Développement psychologique de l'enfant,University of Geneva,5.0
+songwriting-lyrics,Songwriting: Writing the Lyrics,Berklee College of Music,5.0
+python-plotting,"Applied Plotting, Charting & Data Representation in Python",University of Michigan,5.0
+systems-thinking,Systems Thinking In Public Health,Johns Hopkins University,5.0
+excel-advanced,Excel Skills for Business: Advanced,Macquarie University,5.0
+neuroeconomics,Introduction to Neuroeconomics: How the Brain Makes Decisions,National Research University Higher School of Economics,5.0
+community-organizing,Community Organizing for Social Justice,University of Michigan,5.0
+nand2tetris2,Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course),Hebrew University of Jerusalem,5.0
+global-financial-crisis,The Global Financial Crisis,Yale University,5.0
+upravleniya-proektami-agile-scrum,Agile и Scrum в работе над проектами и продуктами,E-Learning Development Fund,5.0
+renewable-energy-entrepreneurship,Renewable Energy and Green Building Entrepreneurship,Duke University,5.0
+the-cycle,The Cycle: Management of Successful Arts and Cultural Organizations,"University of Maryland, College Park",5.0
+privacy-law-data-protection,Privacy Law and Data Protection,University of Pennsylvania,5.0
+building-modern-python-applications-on-aws,Building Modern Python Applications on AWS,Amazon Web Services,5.0
+digital-business-models,Digital Business Models,Lund University,5.0
+everyday-excel-part-2,"Everyday Excel, Part 2",University of Colorado Boulder,5.0
+cloud-infrastructure-design-process,Reliable Google Cloud Infrastructure: Design and Process,Google Cloud,5.0
+introduction-to-computer-programming,Introduction to Computer Programming,University of London,5.0
+big-data-essentials,"Big Data Essentials: HDFS, MapReduce and Spark RDD",Yandex,4.0
+dermatology,Dermatology: Trip to skin,Novosibirsk State University ,4.0
+sustainable-tourism,Sustainable Tourism – promoting environmental public health,University of Copenhagen,5.0
+contact-tracing-for-covid-19,Population Health During A Pandemic: Contact Tracing and Beyond,University of Houston,5.0
+social-impact,Social Impact Strategy: Tools for Entrepreneurs and Innovators,University of Pennsylvania,5.0
+c-for-everyone,C for Everyone: Programming Fundamentals,"University of California, Santa Cruz",5.0
+intro-sql,Introduction to Structured Query Language (SQL),University of Michigan,5.0
+social-economic-networks,Social and Economic Networks:  Models and Analysis,Stanford University,1.0
+cats-and-dogs,The Truth About Cats and Dogs,The University of Edinburgh,5.0
+sports-society,Sports and Society,Duke University,5.0
+ds,Fundamentals of Scalable Data Science,IBM,4.0
+effective-compliance-programs,Effective Compliance Programs,University of Pennsylvania,5.0
+transformation-global-food-system,Transformation of the Global Food System,University of Copenhagen,5.0
+django-database-web-apps,Web Application Technologies and Django,University of Michigan,5.0
+curanderismo-plants,Curanderismo: Traditional Healing Using Plants,University of New Mexico,1.0
+python-machine-learning,Applied Machine Learning in Python,University of Michigan,5.0
+troubleshooting-debugging-techniques,Troubleshooting and Debugging Techniques,Google,5.0
+introduction-programming-unity,Introduction to C# Programming and Unity,University of Colorado System,5.0
+correccion-estilo-variaciones,"Corrección, estilo y  variaciones de la lengua española",Universitat Autònoma de Barcelona,5.0
+fondamentaux-negociation,Les Fondamentaux de la Négociation,ESSEC Business School,5.0
+success,The Science of Success: What Researchers Know that You Should Know,University of Michigan,5.0
+finance-for-non-financial-managers,Finance for Non-Financial Managers,Emory University,4.0
+music-theory,Getting Started With Music Theory,Michigan State University,5.0
+horse-care,The Horse Course: Introduction to Basic Care and Management,University of Florida,5.0
+verb-passives,Verb Tenses and Passives,"University of California, Irvine",5.0
+gestion-organizaciones-efectivas,Gestión de organizaciones efectivas,Pontificia Universidad Católica de Chile,5.0
+big-data-introduction,Introduction to Big Data,University of California San Diego,5.0
+contrats,Rédaction de contrats,University of Geneva,5.0
+philosophy-cognitive-sciences,Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences,The University of Edinburgh,5.0
+schizophrenia,Schizophrenia,Wesleyan University,5.0
+ecology-conservation,Ecology: Ecosystem Dynamics and Conservation,Howard Hughes Medical Institute ,5.0
+game-development,Introduction to Game Development,Michigan State University,5.0
+practical-time-series-analysis,Practical Time Series Analysis,The State University of New York,5.0
+vlsi-cad-logic,VLSI CAD Part I: Logic,University of Illinois at Urbana-Champaign,5.0
+google-kubernetes-engine,Getting Started with Google Kubernetes Engine,Google Cloud,5.0
+gcp-exploring-preparing-data-bigquery,Exploring ​and ​Preparing ​your ​Data with BigQuery,Google Cloud,5.0
+six-sigma-organization-advanced,Six Sigma and the Organization (Advanced),University System of Georgia,5.0
+social-work-practice-advocating-social-justice-and-change,Social Work Practice: Advocating Social Justice and Change,University of Michigan,5.0
+machine-learning-duke,Introduction to Machine Learning,Duke University,5.0
+wharton-launching-startup,Entrepreneurship 2: Launching your Start-Up,University of Pennsylvania,5.0
+nanotechnology,Nanotechnology: A Maker’s Course,Duke University,5.0
+creative-problem-solving,Creative Problem Solving,University of Minnesota,5.0
+sleep,"Sleep: Neurobiology, Medicine, and Society",University of Michigan,5.0
+covid-19-what-you-need-to-know,COVID-19: What You Need to Know (CME Eligible),Osmosis,5.0
+classical-sociological-theory,Classical Sociological Theory,University of Amsterdam,5.0
+electricity,Electric Industry Operations and Markets,Duke University,5.0
+preparing-cloud-professional-cloud-architect-exam,Preparing for the Google Cloud Professional Cloud Architect Exam,Google Cloud,5.0
+powerpoint-presentations,Effective Business Presentations with Powerpoint,PwC,5.0
+wharton-financial-accounting,More Introduction to Financial Accounting,University of Pennsylvania,5.0
+wharton-cryptocurrency-blockchain-introduction-digital-currency,Cryptocurrency and Blockchain: An Introduction to Digital Currencies,University of Pennsylvania,5.0
+understanding-arguments,Think Again I: How to Understand Arguments,Duke University,5.0
+develop-your-musicianship,Developing Your Musicianship,Berklee College of Music,5.0
+wharton-operations,Introduction to Operations Management,University of Pennsylvania,5.0
+oralcavity,The Oral Cavity: Portal to Health and Disease,University of Pennsylvania,5.0
+preparing-cloud-associate-cloud-engineer-exam,Preparing for the Google Cloud Associate Cloud Engineer Exam,Google Cloud,5.0
+neuroscience-neuroimaging,Fundamental Neuroscience for Neuroimaging,Johns Hopkins University,5.0
+european-law-fundamentals,European Business Law: Understanding the Fundamentals,Lund University,5.0
+teachlanguageonline,Teach English Now! Teaching Language Online,Arizona State University,5.0
+front-end-react,Front-End Web Development with React,The Hong Kong University of Science and Technology,5.0
+music-business-foundations,Music Business Foundations,Berklee College of Music,5.0
+intro-business-analytics,Introduction to Business Analytics: Communicating with Data,University of Illinois at Urbana-Champaign,5.0
+ml-foundations,Machine Learning Foundations: A Case Study Approach,University of Washington,5.0
+accounting-analytics,Accounting Analytics,University of Pennsylvania,5.0
+strategic-business-management-microeconomics,Strategic Business Management - Microeconomics,"University of California, Irvine",5.0
+epidemic-pandemic-outbreak,"Epidemics, Pandemics and Outbreaks",University of Pittsburgh,5.0
+roman-architecture,Roman Architecture,Yale University,5.0
+data-management,Research Data Management and Sharing,The University of Edinburgh,5.0
+introduction-genomics,Introduction to Genomic Technologies,Johns Hopkins University,5.0
+strategic-management,Strategic Management,Copenhagen Business School,5.0
+cybersecurity-compliance-framework-system-administration,Cybersecurity Compliance Framework & System Administration,IBM,5.0
+legal-tech-startups,Legal Tech & Startups,IE Business School,4.0
+intro-chemistry,Introduction to Chemistry:  Reactions and Ratios,Duke University,5.0
+stem-cells,The Science of Stem Cells,American Museum of Natural History,5.0
+the-business-of-product-management-one,The Business of Product Management I,Advancing Women in Product,4.0
+positive-psychology-resilience,Positive Psychology: Resilience Skills,University of Pennsylvania,5.0
+ai-for-medical-prognosis,AI for Medical Prognosis,DeepLearning.AI,5.0
+antibiotic-stewardship,Antibiotic Stewardship,Stanford University,5.0
+ux-ui-design-de-interface,UX / UI: Fundamentos para o design de interface,Universidade de São Paulo,5.0
+emt-foundations,EMT Foundations,University of Colorado System,5.0
+iiot-google-cloud-platform,Industrial IoT on Google Cloud Platform,Google Cloud,5.0
+ibm-penetration-testing-incident-response-forensics,"Penetration Testing, Incident Response and Forensics",IBM,5.0
+database-management,Database Management Essentials,University of Colorado System,5.0
+role-of-advertising,Advertising and Society,Duke University,5.0
+everyday-chinese-medicine,Everyday Chinese Medicine,The Chinese University of Hong Kong,5.0
+fundamental-machine-learning-healthcare,Fundamentals of Machine Learning for Healthcare,Stanford University,5.0
+countering-terror-violent-extremism,New Approaches to Countering Terror: Countering Violent Extremism,"University of Maryland, College Park",5.0
+magic-middle-ages,Magic in the Middle Ages,Universitat de Barcelona,5.0
+challenging-forensic-science,Challenging Forensic Science: How Science Should Speak to Court,University of Lausanne,5.0
+exploring-renewable-energy,Exploring Renewable Energy Schemes,University of Pennsylvania,5.0
+theropods-birds,Paleontology: Theropod Dinosaurs and the Origin of Birds,University of Alberta,5.0
+corporatestrategy,Corporate Strategy,UCL School of Management,5.0
+getting-started-with-essay-writing,Getting Started with Essay Writing,"University of California, Irvine",5.0
+actualizacion-manejo-diabetes-tipo-2,Actualización en el manejo del paciente con diabetes mellitus tipo 2,Universidad Nacional Autónoma de México,5.0
+mastering-final-cut-pro,Mastering Final Cut Pro,LearnQuest,5.0
+removing-barriers-to-change,Removing Barriers to Change,University of Pennsylvania,5.0
+tricky-american-english-pronunciation,Tricky American English Pronunciation,"University of California, Irvine",5.0
+uva-darden-agile-team-management,Managing an Agile Team,University of Virginia,5.0
+international-law-in-action,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,Universiteit Leiden,5.0
+competencias-lab,"Competencias Laborales: Perfiles, Evaluación y Capacitación.",Universidad de Chile,5.0
+getting-started-with-tensor-flow2,Getting started with TensorFlow 2,Imperial College London,5.0
+geopolitics-europe,Geopolitics of Europe,Sciences Po,4.0
+truthinourbones-osteoarchaeology-archaeology,Osteoarchaeology: The Truth in Our Bones,Universiteit Leiden,5.0
+pca-machine-learning,Mathematics for Machine Learning: PCA,Imperial College London,4.0
+object-oriented-java,Object Oriented Programming in Java,University of California San Diego,5.0
+embedded-software-hardware,Embedded Software and Hardware Architecture,University of Colorado Boulder,5.0
+memoir-reader-relationship,Memoir and Personal Essay: Managing Your Relationship with the Reader,Wesleyan University,5.0
+mathematics-and-python,Математика и Python для анализа данных,Moscow Institute of Physics and Technology,5.0
+aulaconstructivista,Hacia una práctica constructivista en el aula,Pontificia Universidad Católica de Chile,5.0
+uva-darden-agile-testing,Hypothesis-Driven Development,University of Virginia,5.0
+accounting-data-analytics-python,Accounting Data Analytics with Python,University of Illinois at Urbana-Champaign,3.5
+spectroscopy,Introduction to Molecular Spectroscopy,University of Manchester   ,5.0
+managing-as-a-coach,Managing as a Coach,"University of California, Davis",5.0
